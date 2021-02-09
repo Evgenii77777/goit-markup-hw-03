@@ -181,6 +181,7 @@ html {
 /* Особенности */
 
 .subject.section-title {
+  margin-bottom: 10px;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -370,6 +371,7 @@ html {
 }
 
 .list.work {
+  margin-bottom: 30px;
   width: 370px;
   border: 1px solid #eeeeee;
   margin-right: 30px;
